@@ -156,7 +156,7 @@ python EDA.py
 3. Run model training:
 
 ```bash
-python model.py
+python main.py
 ```
 
 4. Generated plots will be saved as `.png` files for report use.
