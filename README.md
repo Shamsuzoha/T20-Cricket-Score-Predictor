@@ -194,7 +194,7 @@ python main.py
 ## Author
 
 * Name: Shams Uz Zoha Mohammod
-* Course: CSE422 – Artificial Intelligence Lab
+* Course: CSE422 - Artificial Intelligence Lab
 * Institution: BRAC University
 
 ---
